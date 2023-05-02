@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hantablack9
-- 👀 I’m interested in exploring the power and potential of data analytics and data science in the field of Climate and Gender Economics.
-- 🌱 I’m currently learning the tools for data analysis like R, Tableau and Python and plan on eventually regression, data modelling and machine learning.
-- 💞️ I’m looking to collaborate on data analysis projects in the domains of public and economic policy currently, but I'm open to exploring beyond these confines.
-- 📫 How to reach me: Github
+- 👋 Hey! I'm Hanish Paturi, a Data Scientist in training. Welcome to this space!
+- 👀 I’m interested in exploring the power and potential of data in the field of Earth Observation and Image Analysis for Conservation. I'm currently dabbling with ConvNets and LSTM.  
+- 🌱 I'm experienced in Business Analytics, Supply Chain Management, and Prooduction Planning and Control, in my previous role where I have worked continously with data for managing business deliverables, cross-functional teams, and for optimization and standardizing of workflows.
+- 💞️ 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hanish-paturi/), Github.
 
 <!---
 hantablack9/hantablack9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
