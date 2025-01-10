@@ -1,8 +1,9 @@
-- 👋 Hey! I'm Hanish Paturi, a Data Scientist and Business Analyst. Welcome to this space!
+- 👋 Hey! I'm Hanish Paturi, a Consultant Data Scientist and a Business Analyst with a degree in Mechanical Engineering.
 
-- 👀 I’m interested in exploring the power and potential of data in the field of Earth Observation and Image Analysis for Conservation. I'm currently dabbling with ConvNets, LSTMs and other advanced algorithms for predicting Forest Fires and Earthquakes.  
-- 🌱 I'm experienced in Business Analytics, Supply Chain Management, and Prooduction Planning and Control, in my previous role where I have worked continously with data for managing business deliverables, cross-functional teams, and for optimization and standardizing of workflows.
+- I have co-founded Agera Consultants in 2023 with a goal to deliver bespoke AI/ML-integrated solutions to various industries. As of Jan 2025, I'm working on projects in the Industrial-IoT and Big Data space.
+- My past projects included a **Distance tracker** using Computer Vision for a Logistics provider. I've also developed an **Automated Raw Material Demand Forecasting tool** and **Inventory Optimization tool** for a leading Aerospace manufacturer.
 
+  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hanish-paturi/), Github.
 
 <!---
