@@ -6,6 +6,10 @@
   
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hanish-paturi/), Github.
 
+[![Hanish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hantablack9&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  
+
 <!---
 hantablack9/hantablack9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
