@@ -8,9 +8,10 @@
 <!---
 - [![Hanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=hantablack9)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hanish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hantablack9&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 --->
+[![Hanish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hantablack9&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!---
 hantablack9/hantablack9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
